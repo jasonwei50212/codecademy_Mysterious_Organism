@@ -66,18 +66,6 @@ const pAequorFactory = (number,array) => {
   }
 }
 
-//const  pAequor1 = pAequorFactory(1,mockUpStrand());
-//const  pAequor2 = pAequorFactory(1,mockUpStrand());
-//console.log(pAequor1);
-
-//pAequor1.mutate();
-//console.log(pAequor2);
-
-//pAequor1.compareDNA(pAequor2);
-//console.log(pAequor1.willLikelySurvive());
-//console.log(pAequor2.willLikelySurvive());
-
-
 function creatInstance(num){
   const Instances = [];
   let i = 0;  
